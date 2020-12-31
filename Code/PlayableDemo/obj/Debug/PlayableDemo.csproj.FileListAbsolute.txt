@@ -1,0 +1,6 @@
+D:\GitHub\UnityPlayable_MyDemo\Code\PlayableDemo\bin\Debug\PlayableDemo.dll
+D:\GitHub\UnityPlayable_MyDemo\Code\PlayableDemo\bin\Debug\PlayableDemo.pdb
+D:\GitHub\UnityPlayable_MyDemo\Code\PlayableDemo\obj\Debug\PlayableDemo.csprojAssemblyReference.cache
+D:\GitHub\UnityPlayable_MyDemo\Code\PlayableDemo\obj\Debug\PlayableDemo.csproj.CoreCompileInputs.cache
+D:\GitHub\UnityPlayable_MyDemo\Code\PlayableDemo\obj\Debug\PlayableDemo.dll
+D:\GitHub\UnityPlayable_MyDemo\Code\PlayableDemo\obj\Debug\PlayableDemo.pdb
